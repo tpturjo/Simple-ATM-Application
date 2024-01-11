@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ATM
+comment1.params=user
+comment1.target=ATM(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ the\ ATM\ class.\r\n\ Initializes\ the\ ATM\ with\ a\ user\ and\ sets\ up\ the\ bank\ and\ the\ interface.\r\n\ @param\ user\ the\ user\ name\ for\ the\ ATM\ session\r\n
+comment2.params=
+comment2.target=void\ createBankInfo()
+comment2.text=\r\n\ Sets\ up\ the\ initial\ bank\ information\ for\ testing.\r\n
+comment3.params=
+comment3.target=void\ makeFrame()
+comment3.text=\r\n\ Creates\ the\ main\ frame\ of\ the\ ATM\ interface.\r\n
+comment4.params=frame
+comment4.target=void\ makeMenuBar(javax.swing.JFrame)
+comment4.text=\r\n\ Sets\ up\ the\ menu\ bar\ for\ the\ ATM\ interface.\r\n\ @param\ frame\ the\ frame\ to\ which\ the\ menu\ bar\ is\ added\r\n
+comment5.params=
+comment5.target=void\ listAccounts()
+comment5.text=\r\n\ Lists\ all\ accounts\ associated\ with\ the\ user\ in\ the\ ATM\ interface.\r\n
+comment6.params=acc
+comment6.target=void\ drawAccount(Account)
+comment6.text=\r\n\ Draws\ the\ account\ information\ on\ the\ ATM\ interface\ for\ each\ account.\r\n\ @param\ acc\ the\ account\ to\ be\ displayed\r\n
+comment7.params=
+comment7.target=void\ about()
+comment7.text=\r\n\ Displays\ the\ about\ information\ in\ the\ ATM\ interface.\r\n
+numComments=8

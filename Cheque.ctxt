@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cheque
+comment0.text=\r\n\ mainatin\ withdarw\ mwthod\r\n\ calculate\ all\ the\ fees\r\n\ for\ minimBalance\ and\ overLimitCharge\r\n\ @author\ (Tridib\ Paul\ Turjo)\r\n\ @version\ (18.03.2023)\r\n
+comment1.params=
+comment1.target=Cheque()
+comment1.text=\r\n\ Default\ constructor\ for\ the\ Cheque\ class.\r\n\ Calls\ the\ superclass\ constructor\ to\ initialize\ the\ Cheque\ account.\r\n
+comment2.params=user
+comment2.target=Cheque(java.lang.String)
+comment2.text=\r\n\ Overloaded\ constructor\ for\ the\ Cheque\ class\ with\ a\ specified\ user\ name.\r\n\ Calls\ the\ superclass\ constructor\ to\ initialize\ the\ Cheque\ account\ with\ the\ given\ user\ name.\r\n\ @param\ user\ the\ name\ of\ the\ account\ user\r\n
+comment3.params=amount
+comment3.target=void\ withdraw(double)
+comment3.text=\r\n\ Overridden\ method\ to\ withdraw\ a\ specified\ amount\ from\ the\ Cheque\ account.\r\n\ Applies\ an\ over-limit\ charge\ if\ the\ balance\ falls\ below\ the\ minimum\ after\ withdrawal.\r\n\ @param\ amount\ the\ amount\ to\ be\ withdrawn\r\n
+numComments=4

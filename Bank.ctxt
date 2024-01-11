@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Bank
+comment1.params=
+comment1.target=Bank()
+comment1.text=\r\n\ Default\ constructor\ for\ the\ Bank\ class.\r\n\ Initializes\ the\ bank\ with\ a\ default\ name\ and\ an\ empty\ list\ of\ accounts.\r\n
+comment2.params=name
+comment2.target=Bank(java.lang.String)
+comment2.text=\r\n\ Overloaded\ constructor\ for\ the\ Bank\ class\ with\ a\ specified\ bank\ name.\r\n\ Initializes\ the\ bank\ with\ the\ given\ name\ and\ an\ empty\ list\ of\ accounts.\r\n\ @param\ name\ the\ name\ of\ the\ bank\r\n
+comment3.params=a
+comment3.target=void\ add(Account)
+comment3.text=\r\n\ Adds\ an\ account\ to\ the\ bank's\ list\ of\ accounts.\r\n\ @param\ a\ the\ account\ to\ be\ added\r\n
+comment4.params=
+comment4.target=java.lang.String\ getBankName()
+comment4.text=\r\n\ Returns\ the\ name\ of\ the\ bank.\r\n\ @return\ the\ name\ of\ the\ bank\r\n
+comment5.params=
+comment5.target=void\ display()
+comment5.text=\r\n\ Displays\ the\ bank\ name\ and\ details\ of\ all\ accounts.\r\n
+comment6.params=user
+comment6.target=void\ display(java.lang.String)
+comment6.text=\r\n\ Displays\ the\ bank\ name\ and\ details\ of\ accounts\ for\ a\ specific\ user.\r\n\ @param\ user\ the\ user\ name\ whose\ accounts\ are\ to\ be\ displayed\r\n
+comment7.params=user
+comment7.target=java.util.List\ getAccounts(java.lang.String)
+comment7.text=\r\n\ Displays\ the\ bank\ name\ and\ details\ of\ accounts\ for\ a\ specific\ user.\r\n\ @param\ user\ the\ user\ name\ whose\ accounts\ are\ to\ be\ displayed\r\n
+numComments=8

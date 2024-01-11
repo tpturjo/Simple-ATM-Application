@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Saving
+comment0.text=\r\n\ @author\ (Tridib\ Paul\ Turjo)\r\n\ @version\ (19.03.2023)\r\n
+comment1.params=
+comment1.target=Saving()
+comment1.text=\r\n\ Default\ constructor\ for\ the\ Saving\ class.\r\n\ Calls\ the\ superclass\ constructor\ to\ initialize\ the\ Saving\ account.\r\n
+comment2.params=user
+comment2.target=Saving(java.lang.String)
+comment2.text=\r\n\ Overloaded\ constructor\ for\ the\ Saving\ class\ with\ a\ specified\ user\ name.\r\n\ Calls\ the\ superclass\ constructor\ to\ initialize\ the\ Saving\ account\ with\ the\ given\ user\ name.\r\n\ @param\ user\ the\ name\ of\ the\ account\ user\r\n
+comment3.params=amount
+comment3.target=void\ withdraw(double)
+comment3.text=\r\n\ Overridden\ method\ to\ withdraw\ a\ specified\ amount\ from\ the\ Saving\ account.\r\n\ Charges\ a\ transaction\ fee\ and\ updates\ the\ balance\ if\ sufficient\ funds\ are\ available.\r\n\ @param\ amount\ the\ amount\ to\ be\ withdrawn\r\n
+numComments=4
